@@ -1,2 +1,2 @@
-# Sistem-Informasi-Operasiona-
-Operasional
+# Sistem-Informasi-Operasional
+Operasional Lembaga Manajemen Infaq
