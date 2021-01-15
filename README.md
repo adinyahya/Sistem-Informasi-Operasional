@@ -1,2 +1,2 @@
 # Sistem-Informasi-Operasional
-Operasional Lembaga Manajemen Infaq
+Sistem Informasi Operasional Lembaga Manajemen Infaq Surabaya (Magang)
